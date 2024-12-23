@@ -1,4 +1,4 @@
-package threadpool;
+package com.threadpool;
 
 import java.util.LinkedList;
 

@@ -1,4 +1,4 @@
-package threadpool;
+package com.threadpool;
 
 public class TaskWorker extends Thread {
     private ThreadPool threadPool;
