@@ -2,8 +2,6 @@ package com.sort;
 
 import com.util.RandomArray;
 
-import java.util.ArrayList;
-
 /**
  * @author evans
  * @create 2019-06-12 2019/6/12
